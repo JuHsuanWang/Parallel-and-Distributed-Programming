@@ -1,0 +1,1 @@
+HW1/testcases/ HW1/spmv_not_csr HW1/spmv_serial HW1/spmv_openmp *.o
